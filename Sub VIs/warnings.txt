@@ -1,0 +1,2 @@
+C:\Users\Papa\Desktop\Ultrasuoni Lego MyRio\robot\ProvaRobot.vi (ProvaRobot.vi)
+    - The VI expected to be at "C:\Users\Papa\Desktop\Ultrasuoni Lego MyRio\Untitled Project 15\Sub VIs\MyPwm\Motor.vi" was loaded from "C:\Users\Papa\Desktop\Ultrasuoni Lego MyRio\robot\Sub VIs\MyPwm\Motor.vi".
